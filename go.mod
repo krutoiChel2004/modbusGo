@@ -1,3 +1,3 @@
-module github.com/krutoiChel2004/modbusGo.git
+module github.com/krutoiChel2004/modbusGo
 
 go 1.23.0
